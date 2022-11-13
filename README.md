@@ -34,8 +34,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/SaikrishnaReddy1919/solidity.git
-cd solidity/hardhat_defi_fcc
+git clone https://github.com/SaikrishnaReddy1919/hardhat_defi_interaction_aave.git
+cd hardhat_defi_interaction_aave
 yarn
 ```
 ### Optional Gitpod
